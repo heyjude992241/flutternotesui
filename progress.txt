@@ -1,0 +1,5 @@
+Progress:
+
+Day 1: Build title bar user profile: 0.35
+Day 1: Build category: 2:20
+Day 1: Completed
